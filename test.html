@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id ="hello"> Hello</h1>
+    <label>your username</label>
+    <input id="usern"> 
+    <button id="submitt" >submit</button>
+    
+
+    <script>
+        let username;
+        document.getElementById("submitt").onclick = function(){
+            username = document.getElementById("usern").value;
+            console.log(username);
+        document.getElementById("hello").textContent =  `hello ${username}`
+        }
+
+        
+    </script>
+    <script>
+
+fetch('https://api.example.com/data')
+.then(response => response.json())
+.then(data => console.log(data))
+.catch(error => console.error('Error is:', error));
+</script>
+
+</body>
+</html>
