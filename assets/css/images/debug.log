@@ -1,0 +1,16 @@
+[0726/174613.468:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0726/191059.678:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0727/190707.792:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0731/121402.412:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0801/111343.280:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0801/122132.848:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0801/190520.403:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0802/182737.587:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0802/191432.972:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0816/114030.306:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0816/185910.799:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0816/190355.175:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0823/130011.517:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0825/190344.068:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0316/115152.949:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0325/112124.237:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
