@@ -125,4 +125,4 @@ This project is an e-commerce website developed as a final project for the ALX S
 
 ## License
 
-El Mehdi Bayoud | Alx
+Ben chikhe Anas | Alx
